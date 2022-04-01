@@ -1,2 +1,2 @@
-<F8><F8>#!/bin/bash
+#!/bin/bash
 chmod a+x ./hello
