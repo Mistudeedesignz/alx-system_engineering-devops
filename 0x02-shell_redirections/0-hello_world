@@ -1,2 +1,2 @@
-echo '#!/bin/bash' > 0-hello_world
-echho "Hello, World"
+#!/bin/bash
+echo "Hello, World"
