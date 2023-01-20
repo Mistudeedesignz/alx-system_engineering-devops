@@ -1,5 +1,5 @@
-i#!/usr/bin/env bash
-# dump, backup and compress my databases i
+#!/usr/bin/env bash
+# backup and compress my databases
 mysqldump --all-databases -u root --password="$1" > backup.sql
 day=$(date +"%d")
 month=$(date +"%m")
